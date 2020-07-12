@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">projecttwo</string>
+    <array name="year">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Final</item>
+    </array>
+
+    <array name="dept">
+        <item>IT</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>MECH</item>
+        <item>EEE</item>
+    </array>
+
+    <array name="sec">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>ALL</item>
+    </array>
+    <string name="title_activity_menubaractivity">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Master Login</string>
+    <string name="menu_slideshow">Staff Login</string>
+    <string name="menu_tools">Student Login</string>
+    <string name="menu_share">College View</string>
+    <string name="menu_send">Facilities</string>
+
+</resources>
